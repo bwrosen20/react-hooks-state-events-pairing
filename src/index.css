@@ -10,3 +10,18 @@ body {
 .App {
   text-align: center;
 }
+
+.select {
+  border-radius: 0;
+  background:lightgray;
+  color: #1a1a1a;
+  font-weight: bold;
+  border: none;
+  border-top: black solid 0.1rem;
+  border-bottom: black solid 0.1rem;
+  border-left: black solid 0.1rem;
+  border-right: black solid 0.1rem;
+  cursor: pointer;
+  width: 15%;
+  height: 2rem;
+}
